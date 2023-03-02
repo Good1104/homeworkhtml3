@@ -17,6 +17,7 @@ img{
     width: 35px;
     height: 40px;
     background: url(logo.png);
+    margin: 40px 1510px 620px 375px;
 }
 .item{
     width: 88px;
@@ -24,14 +25,7 @@ img{
     font-size: 24px;
     line-height: 28px;
     color: #000000;
-}
-.home{
-    width: 533px;
-height: 17px;
-font-family: 'Gilroy-SemiBold';
-font-size: 14px;
-line-height: 16px;
-color: #F25822;
+    margin: 45px 1608px 625px 424px;
 }
 .navigator{
     width: 533px;
@@ -40,8 +34,18 @@ font-family: 'Gilroy-SemiBold';
 font-size: 14px;
 line-height: 16px;
 color: #000000;
+margin: 51px 372px 632px 1012px;}
+.home{
+    width: 533px;
+height: 17px;
+font-family: 'Gilroy-SemiBold';
+font-size: 14px;
+line-height: 16px;
+color: #F25822;
 }
+
 .main{
+    margin: 164px 1025px;
     width: 522px;
 height: 222px;
 font-size: 60px;
@@ -49,6 +53,7 @@ line-height: 70px;
 color: #000000;
 }
 .second{
+    margin: 403px 1081px 249px 373px;
     width: 466px;
 height: 48px;
 font-family: 'Gilroy-Medium';
@@ -64,8 +69,10 @@ background: #F25822;
 box-shadow: 4px 4px 8px rgba(242, 88, 34, 0.2);
 border-radius: 50px;
 border: none;
+margin: 488px 1405px 162px 375px;
 }
 .wtf{
+    margin: 503px 1243px 178px 587px;
 width: 90px;
 height: 19px;
 font-size: 15px;
@@ -76,6 +83,7 @@ color: #AAAAAA;
 width: 544.81px;
 height: 374.84px;
 background: url(pngfind.png);
+margin: 162.71px 439.25px 162.45px 935.94px;
 }
 .logos{
 width: 160px;
