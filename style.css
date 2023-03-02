@@ -10,7 +10,7 @@ img{
     max-width: 100%;
 }
 .container{
-    width: 1920px;
+    width: 1170px;
     margin: 0 auto;
 }
 .photo{
@@ -19,13 +19,13 @@ img{
     background: url(logo.png);
     margin: 40px 1510px 620px 375px;
 }
-.item{
+.log{
     width: 88px;
     height: 30px;
     font-size: 24px;
     line-height: 28px;
     color: #000000;
-    margin: 45px 1608px 625px 424px;
+    margin: 45px 1408px 625px 424px;
 }
 .navigator{
     width: 533px;
@@ -34,7 +34,7 @@ font-family: 'Gilroy-SemiBold';
 font-size: 14px;
 line-height: 16px;
 color: #000000;
-margin: 51px 372px 632px 1012px;}
+margin: 51px 375px 632px 1012px;}
 .home{
     width: 533px;
 height: 17px;
@@ -45,7 +45,7 @@ color: #F25822;
 }
 
 .main{
-    margin: 164px 1025px;
+    margin: 164px 1025px 314px 373px;
     width: 522px;
 height: 222px;
 font-size: 60px;
@@ -70,6 +70,7 @@ box-shadow: 4px 4px 8px rgba(242, 88, 34, 0.2);
 border-radius: 50px;
 border: none;
 margin: 488px 1405px 162px 375px;
+padding: 15px 36px 16px 35px;
 }
 .wtf{
     margin: 503px 1243px 178px 587px;
